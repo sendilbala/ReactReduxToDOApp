@@ -1,0 +1,21 @@
+.itemsList-ul {
+  list-style-type: none;
+}
+
+.itemsList-ul li {
+	width: 600px;
+  padding: 5px;
+  text-align: left;;
+}
+
+.action-a{
+	padding: 5px;
+}
+
+.itemContent {
+	display: inline-block;
+	width: 300px;
+}
+.actionPanel {
+	display: inline-block;
+}
